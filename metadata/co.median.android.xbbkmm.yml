@@ -1,0 +1,9 @@
+---
+Package: co.median.android.xbbkmm
+Version: "v0.1.0"
+Source: https://github.com/zenithchat/my-fdroid-repo
+SourceCode: https://github.com/zenithchat/my-fdroid-repo
+Architecture: all
+License: MIT
+Description: |
+  ZenithChat Web Yazışma Uygulaması
