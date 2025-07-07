@@ -39,6 +39,8 @@ jobs:
         run: |
           mkdir -p docs
           cp repo/index.xml repo/index.jar repo/*.apk docs/
+          # Jekyll’i atlamak için boş bir .nojekyll dosyası oluştur
+          touch docs/.nojekyll
 
       - name: Commit docs
         run: |
